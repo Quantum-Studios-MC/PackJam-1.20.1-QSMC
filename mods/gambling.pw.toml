@@ -1,0 +1,13 @@
+name = "Gambling"
+filename = "gambling 2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a53b789a879f539f8fdda61aee3d6416a0ef82f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5527512
+project-id = 1046394

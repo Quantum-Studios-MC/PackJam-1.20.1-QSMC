@@ -1,7 +1,7 @@
-name = "QSMCTemplate"
-version = "1.0.0"
-author = "<your name>"
-description = "Template modpack, structure based on Dimension-Gateway."
+name = "Gamba"
+version = "packjam"
+author = "openblocki, EEX5, PotatoBro and sqvizers"
+description = "Gamba Modpack for PackJam 2, this one's a winner!"
 pack_format = 3
 
 [versions]
